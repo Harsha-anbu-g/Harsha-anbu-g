@@ -29,7 +29,8 @@ I'm a Full-Stack Developer who enjoys building web apps with **React** and **Spr
 
 - 🎓 **Master's in Applied Computer Science** — Concordia University, Montreal
 - 🎓 **B.Tech in Information Technology** — Coimbatore Institute of Technology, India
-- 📫 Reach me at **agharsha.anbu@gmail.com**
+- � Former **Data Assurance Analyst** at **Ernst & Young**
+- �📫 Reach me at **agharsha.anbu@gmail.com**
 - ⚡ ♟️ Chess enthusiast | ☕ Black coffee. Always.
 
 ---
@@ -79,16 +80,6 @@ I'm a Full-Stack Developer who enjoys building web apps with **React** and **Spr
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
-
----
-
-### 💼 Experience
-
-| Role                       | Company                                         | Duration            |
-| -------------------------- | ----------------------------------------------- | ------------------- |
-| **Data Assurance Analyst** | Ernst & Young (S. R. Batliboi & Associates LLP) | Dec 2023 – Feb 2024 |
-| **Full-Stack Developer**   | Coimbatore Institute of Technology              | Sep 2022 – Aug 2023 |
-| **UI/UX Developer**        | CODA Technology Solution                        | May 2022 – Aug 2022 |
 
 ---
 
