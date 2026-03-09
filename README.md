@@ -31,7 +31,6 @@ I'm a Full-Stack Developer who enjoys building web apps with **React** and **Spr
 - 🎓 **B.Tech in Information Technology** — Coimbatore Institute of Technology, India
 - � Former **Data Assurance Analyst** at **Ernst & Young**
 - �📫 Reach me at **agharsha.anbu@gmail.com**
-- ⚡ ♟️ Chess enthusiast | ☕ Black coffee. Always.
 
 ---
 
@@ -85,15 +84,13 @@ I'm a Full-Stack Developer who enjoys building web apps with **React** and **Spr
 
 ### 🚀 Projects
 
-| Project | Tech | Repo |
-|---------|------|------|
-| **Quiz App** — RESTful quiz backend with CRUD & score calculation | Spring Boot · PostgreSQL · JPA | [View](https://github.com/Harsha-anbu-g/quiz-spring) |
-| **Risk Game** — Turn-based strategy game with design patterns | Java · JUnit · OOP | [View](https://github.com/Harsha-anbu-g/RiskGame) |
-| **Book Review Analytics** — Distributed analysis of ~3M reviews using MPI | Python · Docker · MPI · Pandas | [View](https://github.com/Harsha-anbu-g/docker-mpi) |
+| Project                                                                   | Tech                           | Repo                                                 |
+| ------------------------------------------------------------------------- | ------------------------------ | ---------------------------------------------------- |
+| **Quiz App** — RESTful quiz backend with CRUD & score calculation         | Spring Boot · PostgreSQL · JPA | [View](https://github.com/Harsha-anbu-g/quiz-spring) |
+| **Risk Game** — Turn-based strategy game with design patterns             | Java · JUnit · OOP             | [View](https://github.com/Harsha-anbu-g/RiskGame)    |
+| **Book Review Analytics** — Distributed analysis of ~3M reviews using MPI | Python · Docker · MPI · Pandas | [View](https://github.com/Harsha-anbu-g/docker-mpi)  |
 
 ---
-
-<h3 align="center">💬 "JUST DO IT."</h3>
 
 <p align="center">
   <em>I'm open to full-time and part-time opportunities. Let's connect!</em>
