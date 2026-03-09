@@ -83,59 +83,15 @@ I'm a Full-Stack Developer who enjoys building web apps with **React** and **Spr
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Spring Boot Quiz Application</h3>
-      <p align="center">
-        <a href="https://github.com/Harsha-anbu-g/quiz-spring">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p>RESTful backend for managing and evaluating quizzes with CRUD operations, layered architecture, and randomized quiz generation.</p>
-      <p><strong>Tech:</strong> Spring Boot · PostgreSQL · JPA · REST APIs</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Risk Game Project</h3>
-      <p align="center">
-        <a href="https://github.com/Harsha-anbu-g/RiskGame">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p>Turn-based strategy game with graph-based territory logic, State/Command/Observer design patterns, and probabilistic battle simulations.</p>
-      <p><strong>Tech:</strong> Java · JUnit · OOP</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" colspan="2">
-      <h3 align="center">Distributed Book Review Analytics with MPI & Docker</h3>
-      <p align="center">
-        <a href="https://github.com/Harsha-anbu-g/docker-mpi">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p>Parallel computing system analyzing ~3M book reviews across up to 10 Docker containers using MPI. Achieved near-linear speedup (148s → 79s with 10 processes) with master–worker architecture and map-reduce style queries.</p>
-      <p><strong>Tech:</strong> Python · MPI · Docker · Pandas</p>
-    </td>
-  </tr>
-</table>
+| Project | Tech | Repo |
+|---------|------|------|
+| **Quiz App** — RESTful quiz backend with CRUD & score calculation | Spring Boot · PostgreSQL · JPA | [View](https://github.com/Harsha-anbu-g/quiz-spring) |
+| **Risk Game** — Turn-based strategy game with design patterns | Java · JUnit · OOP | [View](https://github.com/Harsha-anbu-g/RiskGame) |
+| **Book Review Analytics** — Distributed analysis of ~3M reviews using MPI | Python · Docker · MPI · Pandas | [View](https://github.com/Harsha-anbu-g/docker-mpi) |
 
 ---
-
-### 📚 What I'm Reading
-
-- _Atomic Habits_ by James Clear
-- _Deep Work_ by Cal Newport
-- _The Psychology of Money_ by Morgan Housel
-- _How to Build a Billion Dollar App_ by George Berkowski
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harsha-anbu-g&style=for-the-badge&color=blue" />
-</p>
 
 <h3 align="center">💬 "JUST DO IT."</h3>
 
