@@ -25,45 +25,70 @@
 
 ### 🧑‍💻 About Me
 
-I'm a Full-Stack Engineer with experience in designing and developing scalable web applications using **React** and **Spring Boot**. I focus on clean API design, secure authentication systems, optimized database architecture, and maintainable code. With experience in Agile environments and strong fundamentals in object-oriented design and system thinking, I build applications that are both user-focused and technically robust.
+I'm a Full-Stack Developer who enjoys building web apps with **React** and **Spring Boot**. Currently doing my Master's in Canada and always looking to learn something new.
 
-- 🎓 **Master's in Applied Computer Science** — Concordia University, Montreal *(2025 – 2026)*
-- 🎓 **B.Tech in Information Technology** — Coimbatore Institute of Technology, India *(2020 – 2024)* — GPA: 8.51/10
-- 💼 Previously worked at **Ernst & Young**, **CIT**, and **CODA Technology Solution**
-- 🌱 Currently learning **Immersive Technology**, **Applied AI**, and **HCI**
+- 🎓 **Master's in Applied Computer Science** — Concordia University, Montreal
+- 🎓 **B.Tech in Information Technology** — Coimbatore Institute of Technology, India
 - 📫 Reach me at **agharsha.anbu@gmail.com**
-- ⚡ Fun fact: ♟️ Chess enthusiast | ☕ Black coffee. Always.
+- ⚡ ♟️ Chess enthusiast | ☕ Black coffee. Always.
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="center">
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+**Backend**
+
+<p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</p>
+
+**Databases**
+
+<p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+</p>
+
+**Cloud & DevOps**
+
+<p>
+  <img src="https://img.shields.io/badge/AWS_(EC2,_S3,_IAM)-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+**Tools & Practices**
+
+<p>
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile/Scrum-6DB33F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP_Design-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
 
 ### 💼 Experience
 
-| Role | Company | Duration |
-|------|---------|----------|
+| Role                       | Company                                         | Duration            |
+| -------------------------- | ----------------------------------------------- | ------------------- |
 | **Data Assurance Analyst** | Ernst & Young (S. R. Batliboi & Associates LLP) | Dec 2023 – Feb 2024 |
-| **Full-Stack Developer** | Coimbatore Institute of Technology | Sep 2022 – Aug 2023 |
-| **UI/UX Developer** | CODA Technology Solution | May 2022 – Aug 2022 |
+| **Full-Stack Developer**   | Coimbatore Institute of Technology              | Sep 2022 – Aug 2023 |
+| **UI/UX Developer**        | CODA Technology Solution                        | May 2022 – Aug 2022 |
 
 ---
 
@@ -108,25 +133,12 @@ I'm a Full-Stack Engineer with experience in designing and developing scalable w
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsha-anbu-g&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-anbu-g&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha-anbu-g&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 📚 What I'm Reading
 
-- *Atomic Habits* by James Clear
-- *Deep Work* by Cal Newport
-- *The Psychology of Money* by Morgan Housel
-- *How to Build a Billion Dollar App* by George Berkowski
+- _Atomic Habits_ by James Clear
+- _Deep Work_ by Cal Newport
+- _The Psychology of Money_ by Morgan Housel
+- _How to Build a Billion Dollar App_ by George Berkowski
 
 ---
 
