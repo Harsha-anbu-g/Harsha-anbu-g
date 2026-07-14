@@ -6,8 +6,6 @@
   </picture>
 </p>
 
-<h1 align="center">Hi there, I'm Harshavardhan Anbuchezhian Gowri 👋</h1>
-
 <p align="center">
   <a href="https://portfolioharsha.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
