@@ -21,12 +21,6 @@
   </a>
 </p>
 
-<h3 align="center">Full-Stack Engineer | Building Reliable & Scalable Web Applications</h3>
-
-<p align="center">
-  <em>Currently pursuing Master's in Applied Computer Science at Concordia University, Montreal 🇨🇦</em>
-</p>
-
 ---
 
 ### 🧑‍💻 About Me
