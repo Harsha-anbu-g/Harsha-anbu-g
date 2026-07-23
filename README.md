@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolioharsha.vercel.app/">
+  <a href="https://harshavardhanag.com/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/harsha-anbu-gowri">
