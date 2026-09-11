@@ -25,21 +25,23 @@
 
 ### 🧑‍💻 About Me
 
-I'm a Full-Stack Developer who enjoys building web apps with **React** and **Spring Boot**. Currently doing my Master's in Canada and always looking to learn something new.
+I am a full-stack developer. I build web apps with **React** and **Spring Boot**, and my iOS app with **React Native** and **Expo**. I completed my Master's in Canada in August 2026.
 
 - 🎓 **Master's in Applied Computer Science** — Concordia University, Montreal
 - 🎓 **B.Tech in Information Technology** — Coimbatore Institute of Technology, India
-- � Former **Data Assurance Analyst** at **Ernst & Young**
-- �📫 Reach me at **agharsha.anbu@gmail.com**
+- 💼 Former **Data Assurance Analyst** at **Ernst & Young**
+- 📫 Reach me at **agharsha.anbu@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Frontend**
+**Frontend & Mobile**
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
@@ -86,7 +88,7 @@ I'm a Full-Stack Developer who enjoys building web apps with **React** and **Spr
 
 | Project                                                                   | Tech                           | Repo                                                 |
 | ------------------------------------------------------------------------- | ------------------------------ | ---------------------------------------------------- |
-| **ToWin** — Full-stack platform connecting elders & helpers (main project) | React · Spring Boot · Docker | [View](https://github.com/Harsha-anbu-g/Towin) |
+| **Towinly**: platform connecting elders and helpers, web app plus an iOS app in TestFlight (main project) | Java 21 · Spring Boot · React · React Native | [Web](https://github.com/Harsha-anbu-g/Towin) · [iOS app](https://github.com/Harsha-anbu-g/ToWin-App) · [Live](https://www.towinly.com) |
 | **Quiz App** — RESTful quiz backend with CRUD & score calculation         | Spring Boot · PostgreSQL · JPA | [View](https://github.com/Harsha-anbu-g/quiz-spring) |
 | **Book Review Analytics** — Distributed analysis of ~3M reviews using MPI | Python · Docker · MPI · Pandas | [View](https://github.com/Harsha-anbu-g/docker-mpi)  |
 
