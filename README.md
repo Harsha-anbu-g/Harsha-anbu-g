@@ -88,7 +88,7 @@ I am a full-stack developer. I build web apps with **React** and **Spring Boot**
 
 | Project                                                                   | Tech                           | Repo                                                 |
 | ------------------------------------------------------------------------- | ------------------------------ | ---------------------------------------------------- |
-| **Towinly**: platform connecting elders and helpers, web app plus an iOS app in TestFlight (main project) | Java 21 · Spring Boot · React · React Native | [Web](https://github.com/Harsha-anbu-g/Towin) · [iOS app](https://github.com/Harsha-anbu-g/ToWin-App) · [Live](https://www.towinly.com) |
+| **Towinly**: platform connecting elders and helpers, web app plus an iOS app in TestFlight (main project) | Java 21 · Spring Boot · React · React Native | [Web](https://github.com/Harsha-anbu-g/Towin) · [iOS app](https://github.com/Harsha-anbu-g/ToWin-App) · [www.towinly.com](https://www.towinly.com) · [Instagram](https://www.instagram.com/towinly.trust/) · [LinkedIn](https://www.linkedin.com/company/towinly/) |
 | **Quiz App** — RESTful quiz backend with CRUD & score calculation         | Spring Boot · PostgreSQL · JPA | [View](https://github.com/Harsha-anbu-g/quiz-spring) |
 | **Book Review Analytics** — Distributed analysis of ~3M reviews using MPI | Python · Docker · MPI · Pandas | [View](https://github.com/Harsha-anbu-g/docker-mpi)  |
 
